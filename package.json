@@ -1,5 +1,5 @@
 {
-  "name": "Boy-BotZ",
+  "name": "BoyBot",
   "version": "1.0.0",
   "description": "Using webSocket version in this script✓",
   "main": "index.js",
@@ -8,7 +8,7 @@
     "start": "node index.js"
   },
   "keywords": [],
-  "author": "rifza",
+  "author": "GoodBoyBot",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^4.4.0",
